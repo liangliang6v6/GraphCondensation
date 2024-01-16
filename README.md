@@ -20,8 +20,8 @@ Node
 | PPI                      | 14,755    | 222,055     | 50        | 121      | Biology network               |
 | OGBLCollab               | 235,868   | 1,285,465   | 128       | N/A      | Collaboration network         |
 | OGBNProducts             | 2,449,029 | 61,859,140  | 128       | 47       | Product co-purchasing network |
-| YelpChi                  | 45,954    | 3,846,979   | 32        | 2        |                               |
-| Amazon                   | 11,944    | 4,398,392   | 25        | 2        |                               |
+| YelpChi(AD)              | 45,954    | 3,846,979   | 32        | 2        | Social network                |
+| Amazon(AD)               | 11,944    | 4,398,392   | 25        | 2        | Product network               |
 
 Graph
 
@@ -34,11 +34,11 @@ Graph
 | MUTAG        | 188     | 17.93      | 19.79      | 2        | Molecule       |
 | NCI1         | 4,110   | 29.87      | 32.30      | 2        | Molecule       |
 | DD           | 1,178   | 284.32     | 715.66     | 2        | Molecule       |
-| E-commerce   | 1,109   | 33.7       | 46.3       | 2        | Transaction    |
-| ENZYMES      | 600     | 32.63      | 62.14      | 6        |                |
+| ENZYMES      | 600     | 32.63      | 62.14      | 6        | Molecule       |
 | NCI109       | 4,127   | 29.68      | 32.13      | 2        | Molecule       |
 | PROTEINS     | 1,108   | 39.06      | 72.70      | 2        | Molecule       |
 | PTC          | 344     | 14.29      | 14.69      | 2        | Molecule       |
 | DD           | 1,178   | 284.3      | 715.7      | 2        | Molecule       |
 | IMDB-BINARY  | 1,000   | 19.8       | 96.5       | 2        | Social network |
 | IMDB-MULTI   | 1,500   | 13.0       | 65.9       | 3        | Social network |
+| E-commerce   | 1,109   | 33.7       | 46.3       | 2        | Transaction    |

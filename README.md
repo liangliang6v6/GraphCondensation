@@ -38,7 +38,6 @@ Graph
 | NCI109       | 4,127   | 29.68      | 32.13      | 2        | Molecule       |
 | PROTEINS     | 1,108   | 39.06      | 72.70      | 2        | Molecule       |
 | PTC          | 344     | 14.29      | 14.69      | 2        | Molecule       |
-| DD           | 1,178   | 284.3      | 715.7      | 2        | Molecule       |
 | IMDB-BINARY  | 1,000   | 19.8       | 96.5       | 2        | Social network |
 | IMDB-MULTI   | 1,500   | 13.0       | 65.9       | 3        | Social network |
 | E-commerce   | 1,109   | 33.7       | 46.3       | 2        | Transaction    |

@@ -31,8 +31,8 @@ In order to facilitate further experimental research in the field, we have compi
 | [Minnesota](https://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf) | 2,642     | 3,304       | 5000      | N/A      | Transportation        |
 | [Bunny](https://proceedings.mlr.press/v202/kumar23a/kumar23a.pdf) | 2,503     | 78,292      | 5,000     | N/A      | Point cloud           |
 | [OGBLCollab](https://arxiv.org/pdf/2312.15520.pdf)           | 235,868   | 1,285,465   | 128       | N/A      | Collaboration         |
-| [OGBNProducts](https://arxiv.org/pdf/2312.15520.pdf)         | 2,449,029 | 61,859,140  | 128       | 47       | Product co-purchasing |
-| [Products](https://arxiv.org/pdf/2309.09455.pdf)             | 2,449,029 | 61,859,140  | 100       | 46       | Product co-purchasing |
+| [OGBNProducts](https://arxiv.org/pdf/2312.15520.pdf)         | 2,449,029 | 61,859,140  | 128       | 47       | Product|
+| [Products](https://arxiv.org/pdf/2309.09455.pdf)             | 2,449,029 | 61,859,140  | 100       | 46       | Product|
 | [Amazon](https://arxiv.org/pdf/2310.09192.pdf)               | 11,944    | 4,398,392   | 25        | 2        | Product               |
 
 ## Multiple Graph
